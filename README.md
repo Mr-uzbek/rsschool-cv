@@ -1,1 +1,1 @@
-# rsschool-cv
+"Hello, my name is Maxmudbek. I currently work in a management role, but coding has always been my real passion. I've been coding for about five or six years — I built my own personal website, three or four travel agency websites, some landing pages, and a CRM platform for a company in Uzbekistan. Right now my job mostly involves managing people, not writing code, so I'm joining RS School to move my career back toward hands-on development."
