@@ -25,6 +25,6 @@
 
 ## Social links
 
-- _[My website](https://Maxmudbek.uz)_
+- _[My website](https://maxmudbek.uz)_
 - _[My Github account](https://github.com/Mr-uzbek)_
 - _[My Linkedin account](https://www.linkedin.com/in/Maxmudbek-jumaniyazov/)_
