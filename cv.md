@@ -4,25 +4,27 @@
 
 ## My Skills
 
-- _HTML_
-- _CSS_
-- _Bootstrap_
-- _JavaScript_
-- _Git / GitHub_
-- _Linux_
-- _VPS deployment_
-- _Pm2_
-- _Nginx_
+- HTML
+- CSS
+- Bootstrap
+- JavaScript
+- Git / GitHub
+- Linux
+- VPS deployment
+- Pm2
+- Nginx
 
 ## Experience
 
-- "Unicon-Soft" || **Deputy Director** || 2024 - **_Present_**
-- "Unicon-Soft" || **Lead Specialist** || 2023 - 2024
-- "Unicon-Soft" || **Systems Technician** || 2022 - 2023
-- "Mustafo-Software" || **Junior Frontend Developer** || 2021 - 2022
+| Company          | Role                      | Years          |
+| ---------------- | ------------------------- | -------------- |
+| Unicon-Soft      | Deputy Director           | 2024 - Present |
+| Unicon-Soft      | Lead Specialist           | 2023 - 2024    |
+| Unicon-Soft      | Systems Technician        | 2022 - 2023    |
+| Mustafo-Software | Junior Frontend Developer | 2021 - 2022    |
 
 ## Social links
 
-- _[My website](www.Maxmudbek.uz)_
+- _[My website](https://Maxmudbek.uz)_
 - _[My Github account](https://github.com/Mr-uzbek)_
 - _[My Linkedin account](https://www.linkedin.com/in/Maxmudbek-jumaniyazov/)_
